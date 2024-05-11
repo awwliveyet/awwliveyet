@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **web3 security**
 
-- 💬 Ask me about **web application security, bug hunting, hacking.**
+- 💬 Ask me about **bug bounty hunting, reverse engineering.**
 
 - 📫 How to reach me **aman03767995@gmail.com**
 
